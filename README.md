@@ -3,7 +3,9 @@
 ---------------------------------------------------
 **Text Counter Program Description:**
 
-This Python program allows users to count either the number of words or characters in a given text. Users can choose between word count ('w') or character count ('c').
+This Python program allows users to count either the number of words or characters in a given text.
+
+Users can choose between `word count` ('w') or `character count` ('c').
 
 ---------------------------------------------------
 **User Input Prompt:**
